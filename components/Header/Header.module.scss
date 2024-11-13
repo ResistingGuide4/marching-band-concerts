@@ -1,8 +1,8 @@
 @import 'styles/breakpoints';
 
 .component {
-	color: var(--wpe--header--color);
-	background-color: var(--wpe--header--background-color);
+	color: #0d1821;
+	background-color: #9db4c0;
 	position: relative;
 	z-index: 2; // Pull dropdown menus to the foreground to sit above <Main />.
 }
